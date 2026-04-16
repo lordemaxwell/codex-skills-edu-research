@@ -1,0 +1,8 @@
+.env
+.venv/
+downloads/
+manual_import/
+profiles/
+runs/
+scripts/__pycache__/
+*.pyc

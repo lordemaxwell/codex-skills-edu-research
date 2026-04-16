@@ -1,0 +1,11 @@
+*.zip
+Thumbs.db
+
+skills/literature-harvest/.env
+skills/literature-harvest/.venv/
+skills/literature-harvest/downloads/
+skills/literature-harvest/manual_import/
+skills/literature-harvest/profiles/
+skills/literature-harvest/runs/
+skills/literature-harvest/scripts/__pycache__/
+skills/literature-harvest/**/*.pyc

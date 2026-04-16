@@ -1,0 +1,7 @@
+interface:
+  display_name: "Literature Harvest"
+  short_description: "CNKI and journal collection to Zotero."
+  default_prompt: "Use $literature-harvest to search, collect, classify, and import education or economics literature into Zotero."
+
+policy:
+  allow_implicit_invocation: true

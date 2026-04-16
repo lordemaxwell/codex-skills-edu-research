@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stata Research"
+  short_description: "Stata coding and econometrics workflows"
+  default_prompt: "Use $stata-research to build or debug a Stata analysis workflow."
